@@ -7,7 +7,7 @@ Développeur full-stack
 Développeur full stack, avec 3 ans d’expérience. Mordu d’informatique, j’ai appris à coder dès mon plus jeune âge dans divers langages informatiques (Javascript, Python) et j'ai créé des projets personnels, dont un site pour ma commune . Polyvalent, je maîtrise les différentes étapes techniques de la création d’une application web ou d’une application mobile ; de la compréhension des besoins utilisateurs, au développement frontend et backend en allant à la maintenance de cette dernière.
 
 * 🌍  I'm based in Sénégal
-* 🖥️  See my portfolio at [CV-Adama](http://cv-adama.netlify.app/)
+* 🖥️  See my portfolio at [CV-Adama](https://cv-adama.vercel.app/)
 * ✉️  You can contact me at [aba47979@gmail.com](mailto:aba47979@gmail.com)
 * 🧠  I'm learning Ingénierie logicielle
 
